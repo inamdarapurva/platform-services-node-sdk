@@ -60,7 +60,10 @@
     "tslint-config-prettier": "^1.18.0",
     "tslint-eslint-rules": "^5.4.0",
     "typedoc": "^0.16.9",
-    "typescript": "^3.4.5"
+    "typescript": "^3.4.5",
+    "pouchdb": "^7.2.1",
+    "async": "^3.2.0",
+    "request": "^2.88.0"
   },
   "jest": {
     "collectCoverage": true,
